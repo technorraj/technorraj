@@ -2,6 +2,8 @@
 🔭I'm interested in CyberSec<br><br>☘️I'm currently learning Java<br><br>💞I'm looking to collaborate on CTF
 
 
+<script src="https://tryhackme.com/badge/1403479"></script>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/technor_raj) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-sharma-tr) 
 
